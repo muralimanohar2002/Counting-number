@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">googletut</string>
+    <string name="toast">TOAST</string>
+    <string name="count">COUNT</string>
+    <string name="back">BACK</string>
+    <string name="back_to_zero">BACK TO ZERO</string>
+    <string name="_0">0</string>
+</resources>
